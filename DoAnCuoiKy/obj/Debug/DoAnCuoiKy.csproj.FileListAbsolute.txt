@@ -1,0 +1,13 @@
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.CapNhatNguoiDung.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.CapNhatVaiTro.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.BanHang.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.NhatKyHeThong.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.PhucHoiDuLieu.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.SaoLuuDuLieu.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.ThongTin.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.ThayDoiMatKhau.resources
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.Cache
+C:\Users\Ken\Desktop\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe.licenses
